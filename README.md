@@ -180,7 +180,4 @@
 </body>
 </html>
 
-<audio id="midia" loop>
-    <source src="planos.mp3" type="audio/mpeg">
-</audio scr="midia/planos.mp3"controls autoplay auto></audio>
-# aniversario
+
